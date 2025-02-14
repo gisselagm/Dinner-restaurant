@@ -2,5 +2,5 @@
 
 ## Credentials for database 'restaurante'
 
-Username: admin
-Password: @dmin.123
+* Username: admin
+* Password: @dmin.123
